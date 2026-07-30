@@ -1,9 +1,9 @@
 
 <p><pre align="center">
-<strong>Adan Jose-Garcia /</strong> <a href="https://adanjoga.github.io/">Homepage</a> / <a href="https://twitter.com/adanjoga">Twitter</a> / <a href="https://www.linkedin.com/in/adanjoga/">Linkedin</a>
+<strong>Adan Jose-Garcia /</strong> <a href="https://adanjoga.github.io/">Homepage</a> / <a href="https://www.linkedin.com/in/adanjoga/">Linkedin</a>
 </pre></p>
 
-I am a Research Scientist in Machine Learning and Digital Health at the CRIStAL and INFINITE Labs, University of Lille, France. My research focuses on developing integrative cluster analysis approaches to address healthcare-related data problems and help to understand better disease complications and treatment goals.
+I am a Research Scientist in Machine Learning and Digital Health at the CRIStAL and INFINITE Labs, University of Lille, France. My research focuses on developing integrative cluster analysis approaches to address healthcare-related data problems and help better understand disease complications and treatment goals.
 
 ### Research projects
 
